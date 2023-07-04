@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23078
 
-Student Name      :   < Your good name >
+Student Name      :   Arin Khan
 
-Project Title     :   < Problem statement allotted to you >
-
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Project Title     :   21) Honda Cars Model Resale
+Google Colab Link :   https://colab.research.google.com/drive/1GAo4iHZu6odqCpXyTZxOsPxBsqKpyfCv#scrollTo=uAK6FvlwvqQF
 
 Summary(Optional) :   < Brief summary of your project >
